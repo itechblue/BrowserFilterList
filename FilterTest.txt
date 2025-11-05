@@ -1,0 +1,13 @@
+[Adblock Plus 2.0]
+! Title: My Mobile Filters
+! Version: 2025.02.10
+! Home: https://github.com/itechblue/myfilters
+! Description: Custom filters for Brave Mobile
+
+! Block ad servers
+||doubleclick.net^
+||googlesyndication.com^
+
+! Hide YouTube Shorts
+m.youtube.com##ytd-reel-shelf-renderer
+m.youtube.com##ytd-reel-video-renderer
